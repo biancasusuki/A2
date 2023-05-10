@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+    list-style: none;
+    color: black;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+body{
+    background-color: white;
+    text-align: center;
+}
+
+.foto{
+    border-radius: 50%;
+    border-style: solid;
+    border-color: rgb(82, 37, 70);
+}
+.menu{
+    display: flex;
+}

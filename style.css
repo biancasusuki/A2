@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+    list-style: none;
+    color: black;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+body{
+    background-color: white;
+    text-align: center;
+}
+
+.foto{
+    border-radius: 50%;
+    border-style: solid;
+    border-color: rgb(82, 37, 70);
+}
+
+h1{
+    color:  rgb(82, 37, 70);
+}
+
+h2{
+    color:  rgb(82, 37, 70);
+}
+
+h3{
+    color:  rgb(82, 37, 70);
+}
+
+h4{
+    color:  rgb(82, 37, 70);
+}
+.menu{
+    display: flex;
+}
+
+.links{
+    text-align: center;
+}
+.link1, .link2, .link3{
+    display: contents;
+    margin-left: auto;
+    margin-right: auto;
+}
